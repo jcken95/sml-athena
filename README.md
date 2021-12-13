@@ -1,6 +1,6 @@
 # sml-code
 E: j.c.kennedy1@ncl.ac.uk
-jcken95.github.io
+W: jcken95.github.io
 
 #### summary of files and data etc ####
 * emulator-data - contains the cheap, expensive and HetGP data for the Athena example
